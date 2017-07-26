@@ -6,7 +6,13 @@ This repo is a seed for building an Angular 2 library with Webpack. Supports Ang
 
 `npm install`
 
-`npm run build`
+Build all modules
+
+`npm run build:all`
+
+Build an individual module
+`npm run build:login`
+`npm run build:shared`
 
 ### Run Demo application (consumes Library)
 
